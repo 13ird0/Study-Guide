@@ -23,13 +23,13 @@ Git study guide
 11. Status
      How do you check the status of the files you are presently working on? -In code you type in git status, but in git hub you can actually check by clicking on the most recent branch with the most recent commit.
 12. Adding to the chaos
-     How do you add files to the repository? You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
+     How do you add files to the repository? -You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
 13. The main line
-     What is the name for the primary branch in git?
+     What is the name for the primary branch in git? -Master
 14. What limb are you on?
-     How do you check which branch you presently have checked out?
+     How do you check which branch you presently have checked out? -git rev-parse --abbrev-ref HEAD
 15. Git what?!
-     What is github?
+     What is github? -It is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
 16. We see a need!
      Why was git created?
 17. A day in the life of git
