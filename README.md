@@ -9,11 +9,11 @@ Git study guide
 4. Commiting to git
     What is a commit? Commits are what you use to add, edit, or delete a file.
 5. Checking out git
-    what is a checkout?
+    what is a checkout? Copying a version from the repository.
 6. It’s like a tree limb
-     What is a branch?
+     What is a branch? Work on the side, like a bug fix or new feature test
 7.The life of a limb
-    How long are branches in git supposed to exist?
+    How long are branches in git supposed to exist? A branch exists as long as you let it. unless you create a new branch with its name then it wont expire.
 8.Tree growth
     How do you create a branch in git?
 9.Swinging on a vine
