@@ -29,11 +29,11 @@ Git study guide
 14. What limb are you on?
      How do you check which branch you presently have checked out? -git rev-parse --abbrev-ref HEAD
 15. Git what?!
-     What is github? -It is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.
+     What is github? -It is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management functionality of Git as well as adding its own features.
 16. We see a need!
-     Why was git created?
+     Why was git created? -git was created to make projects easier.
 17. A day in the life of git
-     What is a typical git workflow?
+     What is a typical git workflow? -Get a branch,add a commit, open a pull request
 18. Why git?
      What makes git different than other version control systems?
 19. What were they thinking?!
