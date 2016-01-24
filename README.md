@@ -15,7 +15,7 @@ Git study guide
 7.The life of a limb
     How long are branches in git supposed to exist? A branch exists as long as you let it. unless you create a new branch with its name then it wont expire.
 8.Tree growth
-    How do you create a branch in git?
+    How do you create a branch in git? When you are making a commit, at the bottom it will ask you if you want to create a new branch. From there you create name.
 9.Swinging on a vine
     How do you switch branches in git?
 10.Taping it together
