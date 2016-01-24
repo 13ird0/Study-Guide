@@ -1,13 +1,13 @@
 # Study-Guide
 Git study guide
 1. Versa what?!
-    What is version control? A system that records changes to a file or a set overtime so that you can recall specific version later.
+    What is version control? -A system that records changes to a file or a set overtime so that you can recall specific version later.
 2. Where the heart is
-    What is the difference between distributes and centralized version control systems? centralized deals with one server that everyone views. Distributed deals with the main source of information sent to every single person exactly the same.
+    What is the difference between distributes and centralized version control systems? -Centralized deals with one server that everyone views. Distributed deals with the main source of information sent to every single person exactly the same.
 3. Versa who?!
-    what does a version control program do for us?
+    what does a version control program do for us? -It tracks and controlls changes to a project's files.
 4. Commiting to git
-    What is a commit?
+    What is a commit? Commits are what you use to add, edit, or delete a file.
 5. Checking out git
     what is a checkout?
 6. It’s like a tree limb
