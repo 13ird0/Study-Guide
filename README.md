@@ -33,11 +33,11 @@ Git study guide
 16. We see a need!
      Why was git created? -git was created to make projects easier.
 17. A day in the life of git
-     What is a typical git workflow? -Get a branch,add a commit, open a pull request
+     What is a typical git workflow? -Get a branch,add a commit, open a pull request, review code, deploy, merge.
 18. Why git?
      What makes git different than other version control systems? -git has a system that is far more socialble than other git programs.
 19. What were they thinking?!
-     What were the design criteria for git?
+     What were the design criteria for git?-
 20. Time machine
      How do we view the past of a project with git?
 21. Commit Comment
