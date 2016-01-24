@@ -35,7 +35,7 @@ Git study guide
 17. A day in the life of git
      What is a typical git workflow? -Get a branch,add a commit, open a pull request
 18. Why git?
-     What makes git different than other version control systems?
+     What makes git different than other version control systems? -git has a system that is far more socialble than other git programs.
 19. What were they thinking?!
      What were the design criteria for git?
 20. Time machine
