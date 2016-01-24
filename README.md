@@ -7,23 +7,23 @@ Git study guide
 3. Versa who?!
     what does a version control program do for us? -It tracks and controlls changes to a project's files.
 4. Commiting to git
-    What is a commit? Commits are what you use to add, edit, or delete a file.
+    What is a commit? -Commits are what you use to add, edit, or delete a file.
 5. Checking out git
-    what is a checkout? Copying a version from the repository.
+    what is a checkout? -Copying a version from the repository.
 6. It’s like a tree limb
-     What is a branch? Work on the side, like a bug fix or new feature test
+     What is a branch? -Work on the side, like a bug fix or new feature test
 7.The life of a limb
-    How long are branches in git supposed to exist? A branch exists as long as you let it. unless you create a new branch with its name then it wont expire.
+    How long are branches in git supposed to exist? -A branch exists as long as you let it. unless you create a new branch with its name then it wont expire.
 8.Tree growth
-    How do you create a branch in git?
+    How do you create a branch in git? -When you are making a commit, at the bottom it will ask you if you want to create a new branch. From there you create name.
 9.Swinging on a vine
-    How do you switch branches in git?
-10.Taping it together
-    How do you merge branches in git?
+    How do you switch branches in git? -From the respository name on the left side has the word branch then the branch name. CLick on that to change your branch.
+10. Taping it together
+    How do you merge branches in git?- In order to do that, you’ll merge your iss53 branch into master, much like you merged your hotfix branch earlier. All you have to do is check out the branch you wish to merge into and then run the git merge command
 11. Status
-     How do you check the status of the files you are presently working on?
+     How do you check the status of the files you are presently working on? -In code you type in git status, but in git hub you can actually check by clicking on the most recent branch with the most recent commit.
 12. Adding to the chaos
-     How do you add files to the repository?
+     How do you add files to the repository? You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
 13. The main line
      What is the name for the primary branch in git?
 14. What limb are you on?
