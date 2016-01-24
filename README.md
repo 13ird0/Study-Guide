@@ -18,12 +18,12 @@ Git study guide
     How do you create a branch in git? -When you are making a commit, at the bottom it will ask you if you want to create a new branch. From there you create name.
 9.Swinging on a vine
     How do you switch branches in git? -From the respository name on the left side has the word branch then the branch name. CLick on that to change your branch.
-10.Taping it together
-    How do you merge branches in git?-If you created a new branch and followed up on commit, at the respository original screen it will ask you in a section of the page to merge branch. click on it and this will take you to another screen, which will ask you which two branches to merge.
+10. Taping it together
+    How do you merge branches in git?- In order to do that, you’ll merge your iss53 branch into master, much like you merged your hotfix branch earlier. All you have to do is check out the branch you wish to merge into and then run the git merge command
 11. Status
-     How do you check the status of the files you are presently working on?
+     How do you check the status of the files you are presently working on? -In code you type in git status, but in git hub you can actually check by clicking on the most recent branch with the most recent commit.
 12. Adding to the chaos
-     How do you add files to the repository?
+     How do you add files to the repository? You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
 13. The main line
      What is the name for the primary branch in git?
 14. What limb are you on?
