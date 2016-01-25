@@ -39,8 +39,8 @@ Git study guide
 19. What were they thinking?!
      What were the design criteria for git?
 20. Time machine
-     How do we view the past of a project with git?
+     How do we view the past of a project with git?-
 21. Commit Comment
-     How much information, and what kind of information should be in a commit message?
+      How much information, and what kind of information should be in a commit message?
 22. Great Scott!
      If there was a mistake made in the past of a project, how should we go about correcting that mistake?
