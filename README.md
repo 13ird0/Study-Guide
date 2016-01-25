@@ -41,6 +41,6 @@ Git study guide
 20. Time machine
      How do we view the past of a project with git? with gitlog, which can be viewed by typing $ git clone https://github.com/schacon/simplegit-progit
 21. Commit Comment
-     How much information, and what kind of information should be in a commit message?
+     How much information, and what kind of information should be in a commit message?-You should limit the characters by at least 50.Use the body to explain what and why vs. how.
 22. Great Scott!
      If there was a mistake made in the past of a project, how should we go about correcting that mistake?
