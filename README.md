@@ -37,9 +37,9 @@ Git study guide
 18. Why git?
      What makes git different than other version control systems? -git has a system that is far more socialble than other git programs.
 19. What were they thinking?!
-     What were the design criteria for git?-
+     What were the design criteria for git?-Git was originally designed as a low-level version control system engine on top of which others could write front ends.
 20. Time machine
-     How do we view the past of a project with git?
+     How do we view the past of a project with git? with gitlog, which can be viewed by typing $ git clone https://github.com/schacon/simplegit-progit
 21. Commit Comment
      How much information, and what kind of information should be in a commit message?
 22. Great Scott!
