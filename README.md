@@ -23,24 +23,24 @@ Git study guide
 11. Status
      How do you check the status of the files you are presently working on? -In code you type in git status, but in git hub you can actually check by clicking on the most recent branch with the most recent commit.
 12. Adding to the chaos
-     How do you add files to the repository? You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
+     How do you add files to the repository? -You would first type in the command git add, then you would type git status, git commit -m "some message goes here", git remote add origin git@github.com:username/Some-Awesome-Project, git push origin master.
 13. The main line
-     What is the name for the primary branch in git?
+     What is the name for the primary branch in git? -Master
 14. What limb are you on?
-     How do you check which branch you presently have checked out?
+     How do you check which branch you presently have checked out? -git rev-parse --abbrev-ref HEAD
 15. Git what?!
-     What is github?
+     What is github? -It is a Web-based Git repository hosting service. It offers all of the distributed revision control and source code management functionality of Git as well as adding its own features.
 16. We see a need!
-     Why was git created?
+     Why was git created? -git was created to make projects easier.
 17. A day in the life of git
-     What is a typical git workflow?
+     What is a typical git workflow? -Get a branch,add a commit, open a pull request, review code, deploy, merge.
 18. Why git?
-     What makes git different than other version control systems?
+     What makes git different than other version control systems? -git has a system that is far more socialble than other git programs.
 19. What were they thinking?!
-     What were the design criteria for git?
+     What were the design criteria for git?-Git was originally designed as a low-level version control system engine on top of which others could write front ends.
 20. Time machine
-     How do we view the past of a project with git?
+     How do we view the past of a project with git? with gitlog, which can be viewed by typing $ git clone https://github.com/schacon/simplegit-progit
 21. Commit Comment
-     How much information, and what kind of information should be in a commit message?
+     How much information, and what kind of information should be in a commit message?-You should limit the characters by at least 50.Use the body to explain what and why vs. how.
 22. Great Scott!
-     If there was a mistake made in the past of a project, how should we go about correcting that mistake?
+     If there was a mistake made in the past of a project, how should we go about correcting that mistake? -Just moving forward with the flow. Never go back. You can just correct it in the next commit and comment on the error made.
