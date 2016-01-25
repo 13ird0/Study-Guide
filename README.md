@@ -43,4 +43,4 @@ Git study guide
 21. Commit Comment
      How much information, and what kind of information should be in a commit message?-You should limit the characters by at least 50.Use the body to explain what and why vs. how.
 22. Great Scott!
-     If there was a mistake made in the past of a project, how should we go about correcting that mistake?
+     If there was a mistake made in the past of a project, how should we go about correcting that mistake? -Just moving forward with the flow. Never go back. You can just correct it in the next commit and comment on the error made.
